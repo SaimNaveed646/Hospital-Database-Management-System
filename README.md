@@ -3,7 +3,7 @@ A web-based hospital management system that uses HTML, CSS and JavaScript for fr
 
 --
 
-#Features
+# Features
 Efficient record keeping in secure database
 Admin Authentication for managing appointments
 Efficient booking of appointments
@@ -12,7 +12,8 @@ Easy to view doctor details associated with the hospital
 Modern and professional UI for the web pages
 
 
-#Working
+
+# Working
 Database table names and credentials should match exactly (included schema and example data files)
 Run the "getdata.py" file to start the Flask server
 Run the "main.html" file on Live Server to start
